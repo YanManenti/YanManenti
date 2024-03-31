@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yan Manenti</h1>
-<h3 align="center">A Full Stack Developer from Brasil!</h3>
+<h1 align="left">Hi 👋, I'm Yan Manenti</h1>
+<h3 align="left">A Full Stack Developer from Brasil!</h3>
 
 - 🔭 I’m currently working on **Software Development**
 
